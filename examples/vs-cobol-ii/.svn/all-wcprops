@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/trunk/Sdf2Haskell/examples/vs-cobol-ii
+END
+CobolSyntax.def
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/CobolSyntax.def
+END
+TestParser.hs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/TestParser.hs
+END
+PerformGraph.hs
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/PerformGraph.hs
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/Makefile.am
+END
+CobolLib.hs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/CobolLib.hs
+END

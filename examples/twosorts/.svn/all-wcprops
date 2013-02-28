@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/38/trunk/Sdf2Haskell/examples/twosorts
+END
+TwoSorts.def
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/twosorts/TwoSorts.def
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/twosorts/Makefile.am
+END
+TwoSorts.hs.correct
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/twosorts/TwoSorts.hs.correct
+END

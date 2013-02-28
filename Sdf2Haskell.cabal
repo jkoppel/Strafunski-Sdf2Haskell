@@ -1,0 +1,29 @@
+name:                Sdf2Haskell
+version:             1.0.0.1
+synopsis:            Converts SDF to Haskell
+description:         
+category:            Language
+license:             none
+license-file:        LICENSE
+-- For contributors & what they did, see AUTHORS
+author:              Ralf Laemmel, Joost Visser
+maintainer:          <jamesbkoppel@yahoo.com>
+homepage:            http://code.google.com/p/strafunski/
+
+Cabal-Version: >= 1.8
+build-type:   Simple
+data-files:   AUTHORS, ChangeLog, README, README.old, code/README.txt, docs/drift.texi, docs/drift.info,
+              example/README, example/TestTerm.out.correct
+--extra-source-files:
+
+executable Sdf2Haskell
+    build-depends:  base
+    main-is:        Sdf2Haskell.hs
+    hs-source-dirs: generator
+    other-modules: CFG, GPP, HaskellLib, ImplodePT, SGLR,
+                   Sdf, Sdf2Cfg, Sdf2HaskellUtils, Sdf2Pretty,
+                   Sdf2Syntax, SdfCoverage, SdfEqInstances,
+                   SdfLib, SdfMetrics, SdfOrdInstances, SdfPP,
+                   SyntaxATermConvertibleInstances
+    ghc-options:    -Wall
+

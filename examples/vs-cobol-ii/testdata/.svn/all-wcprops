@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/Sdf2Haskell/examples/vs-cobol-ii/testdata
+END
+test.cob
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/testdata/test.cob
+END
+nest.pg.dot.correct
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/testdata/nest.pg.dot.correct
+END
+tiny.cob
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/testdata/tiny.cob
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/testdata/Makefile.am
+END
+test.pg.dot.correct
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/testdata/test.pg.dot.correct
+END
+nest.cob
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/testdata/nest.cob
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/testdata/.cvsignore
+END
+tiny.pg.dot.correct
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/21/trunk/Sdf2Haskell/examples/vs-cobol-ii/testdata/tiny.pg.dot.correct
+END

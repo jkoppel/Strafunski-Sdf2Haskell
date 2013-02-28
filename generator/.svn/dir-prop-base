@@ -1,0 +1,17 @@
+K 10
+svn:ignore
+V 98
+Makefile
+Makefile.in
+*.o
+*.hi
+*.asfix
+*.af
+Sdf.hs
+*.tbl
+Sdf2Haskell
+SdfCoverage
+Configuration.hs
+
+
+END

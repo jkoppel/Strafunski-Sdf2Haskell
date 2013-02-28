@@ -1,0 +1,23 @@
+K 10
+svn:ignore
+V 164
+Makefile
+Makefile.in
+*.o
+*.hi
+*.asfix
+*.af
+*.dot
+Configuration.hs
+*.tbl
+Java.hs
+Java2CCG
+Java2PCG
+JavaMetrics
+*Instances.hs
+*.ps
+*.metrics.xml
+JavaPP.hs
+JavaPPTest
+
+END

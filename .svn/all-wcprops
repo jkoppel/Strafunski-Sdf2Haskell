@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/46/trunk/Sdf2Haskell
+END
+README_for_cvs_users
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/Sdf2Haskell/README_for_cvs_users
+END
+acincludepackage.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/Sdf2Haskell/acincludepackage.m4
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/21/trunk/Sdf2Haskell/AUTHORS
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/21/trunk/Sdf2Haskell/INSTALL
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/21/trunk/Sdf2Haskell/configure.in
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/trunk/Sdf2Haskell/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/21/trunk/Sdf2Haskell/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/Sdf2Haskell/Makefile.am
+END
+VERSION.in
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/Sdf2Haskell/VERSION.in
+END
+reconf
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/21/trunk/Sdf2Haskell/reconf
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/21/trunk/Sdf2Haskell/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/21/trunk/Sdf2Haskell/README
+END

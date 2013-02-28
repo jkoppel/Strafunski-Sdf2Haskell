@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 73
+Makefile
+Makefile.in
+*.o
+*.hi
+*.asfix
+*.af
+*.dot
+Configuration.hs
+*.tbl
+
+
+END

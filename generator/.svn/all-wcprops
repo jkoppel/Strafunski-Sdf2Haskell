@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/42/trunk/Sdf2Haskell/generator
+END
+Sdf2Pretty.hs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/Sdf2Pretty.hs
+END
+SGLR.hs
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/SGLR.hs
+END
+Sdf.ds
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/Sdf.ds
+END
+SdfEqInstances.hs
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/SdfEqInstances.hs
+END
+HaskellLib.hs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/HaskellLib.hs
+END
+SdfPP.hs
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/SdfPP.hs
+END
+Sdf2Cfg.hs
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/Sdf2Cfg.hs
+END
+Sdf2HaskellUtils.hs
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/Sdf2HaskellUtils.hs
+END
+SyntaxATermConvertibleInstances.hs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/SyntaxATermConvertibleInstances.hs
+END
+GPP.hs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/GPP.hs
+END
+SdfCoverage.hs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/SdfCoverage.hs
+END
+SdfOrdInstances.hs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/SdfOrdInstances.hs
+END
+ImplodePT.hs
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/ImplodePT.hs
+END
+Cfg.hs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/Cfg.hs
+END
+Sdf.def
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/Sdf.def
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/Makefile.am
+END
+Sdf2Haskell.hs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/Sdf2Haskell.hs
+END
+SdfLib.hs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/SdfLib.hs
+END
+SdfMetrics.hs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/SdfMetrics.hs
+END
+Sdf2Syntax.hs
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/Sdf2Haskell/generator/Sdf2Syntax.hs
+END
