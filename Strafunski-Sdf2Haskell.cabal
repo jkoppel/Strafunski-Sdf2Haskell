@@ -1,7 +1,7 @@
 name:                Strafunski-Sdf2Haskell
 version:             1.0.0.1
 synopsis:            Converts SDF to Haskell
-description:         
+description:         Generates code for using SDF grammars in Haskell. See http://www.syntax-definition.org/ for more information about SDF.
 category:            Language
 license:             BSD3
 license-file:        LICENSE
@@ -13,6 +13,11 @@ Cabal-Version: >= 1.8
 build-type:   Simple
 data-files:   AUTHORS, ChangeLog, README, README.old, code/README.txt, docs/drift.texi, docs/drift.info,
               example/README, example/TestTerm.out.correct
+
+source-repository head
+  type:       git
+  location:   https://github.com/jkoppel/Strafunski-Sdf2Haskell
+
 --extra-source-files:
 
 executable Sdf2Haskell
@@ -26,7 +31,7 @@ executable Sdf2Haskell
       ScopedTypeVariables,
       IncoherentInstances
 
-    build-depends:  base,
+    build-depends:  base <= 4.6.0.1,
                     ATermLib<=1.6,
                     template-haskell,
                     pretty <= 1.1.1.0,
