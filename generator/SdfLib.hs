@@ -16,12 +16,12 @@ module SdfLib (
 ) where
 
 import Sdf
-import StrategyLib
-import Char(toUpper)
+import Data.Generics.Strafunski.StrategyLib.StrategyLib
+import Data.Char(toUpper)
 import SdfPP
 import GPP
 import Text.PrettyPrint.HughesPJ (Mode)
-import ATermLib (dehyphen)
+import Data.ATerm.Lib (dehyphen)
 
 ------------------------------------------------------------------------------
 -- * Collect specific elements from grammars

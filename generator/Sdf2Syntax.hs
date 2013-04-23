@@ -18,9 +18,8 @@ module Sdf2Syntax (
 import Sdf2HaskellUtils
 import SdfLib
 import HaskellLib
-import List(nub)
-import ATermLib (toATermString) -- For debugging
-import ATermLib (dehyphen)
+import Data.List(nub)
+import Data.ATerm.Lib (toATermString,dehyphen) -- For debugging
 
 
 ------------------------------------------------------------------------------

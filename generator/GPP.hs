@@ -1,6 +1,6 @@
 module GPP where
 
-import StrategyLib
+import Data.Generics.Strafunski.StrategyLib.StrategyLib
 import Text.PrettyPrint.HughesPJ
 import Control.Monad.Identity
 

@@ -14,15 +14,14 @@ module Sdf2Cfg --( --genCfgDecl
 --) 
 where
 
-import Char
-import List
+import Data.Char
+import Data.List
 
 import Cfg
 import Sdf2HaskellUtils
 import SdfLib
 import HaskellLib
-import List(nub)
-import ATerm.Lib -- (toATermString) -- For debugging
+import Data.ATerm.Lib -- (toATermString) -- For debugging
 
 import Debug.Trace
 

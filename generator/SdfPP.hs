@@ -2,7 +2,7 @@ module SdfPP where
 import Sdf
 import Text.PrettyPrint.HughesPJ
 import GPP
-import StrategyLib
+import Data.Generics.Strafunski.StrategyLib.StrategyLib
  
 instance PP Grammar where
 	pp gpp (Sdf_aliases _1) = fsep [gpp "aliases", gpp _1]

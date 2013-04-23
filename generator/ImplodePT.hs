@@ -12,7 +12,7 @@
 
 module ImplodePT where
 
-import ATermLib ( ATerm(..))
+import Data.ATerm.Lib ( ATerm(..))
 
 
 ------------------------------------------------------------------------------

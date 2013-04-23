@@ -14,13 +14,12 @@ module Main where
 import SyntaxATermConvertibleInstances
 import Language.Haskell.Pretty (prettyPrint, Pretty)
 import SdfMetrics (putSdfMetricsLns)
-import ATermLib (ATermConvertible,toATermString,toSharedATermString)
+import Data.ATerm.Lib (ATermConvertible,toATermString,toSharedATermString)
 
-import System (getArgs,getProgName)
+import System.Environment (getArgs,getProgName)
 import System.IO
 
 import SGLR (sglr)
-import Configuration (compilationDir)
 
 import SdfLib (SDF)
 import HaskellLib (HsModule)
@@ -72,7 +71,7 @@ sdf2hsWrap mtransform
   = do args <- getArgs
        progName <- getProgName
        opts <- return $ parseOptions progName args
-       tin <- sglr (compilationDir++"/Sdf.tbl") (fin opts) "SDF"
+       tin <- sglr ("./Sdf.tbl") (fin opts) "SDF"
        tout <- mtransform (mod_name opts, outputKind opts) $ tin
        sout <- return . toString progName (format opts) $ tout
        writeStream (fout opts) sout 

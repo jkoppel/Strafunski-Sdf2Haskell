@@ -13,12 +13,13 @@
 
 module SGLR where
 
-import System (ExitCode(..),getProgName)
+import System.Exit 
+import System.Environment (getProgName)
 import System.Cmd (system)
 import Data.Unique (newUnique, hashUnique)
 import System.IO (readFile,hPutStrLn,stderr)
 import System.Directory (removeFile)
-import ATermLib (fromATerm, readATerm, ATermConvertible, 
+import Data.ATerm.Lib (fromATerm, readATerm, ATermConvertible, 
                  dehyphenAST, afunCap, ATerm(..)
                 )
 import ImplodePT (compensateImplodePT)

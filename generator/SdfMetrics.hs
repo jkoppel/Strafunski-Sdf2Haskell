@@ -13,7 +13,7 @@
 module SdfMetrics where
 
 import Sdf
-import StrategyLib hiding (putMetricLn)
+import Data.Generics.Strafunski.StrategyLib.StrategyLib hiding (putMetricLn)
 import System.IO
 
 --- SDF Metrics -------------------------------------------------------------
@@ -27,7 +27,7 @@ sdfMetrics sdf
                `typeMetric` ("modules    ",  typeGuard :: TypeGuard Module)
                `typeMetric` ("productions",  typeGuard :: TypeGuard Production)
                `typeMetric` ("symbols    ",  typeGuard :: TypeGuard Symbol)
-               `predMetric` ("sorts      ",  isSort)
+--               `predMetric` ("sorts      ",  isSort)
       isSort (Sdf_sort _) = Just ()
       isSort _            = Nothing
 

@@ -14,7 +14,7 @@ module Sdf2Pretty where
 
 import SdfLib
 import HaskellLib
-import List(nub)
+import Data.List(nub)
 import Sdf2HaskellUtils
 import Sdf2Syntax (symbol2bangtype)
 

@@ -14,7 +14,7 @@ module Sdf2HaskellUtils where
 
 import SdfLib
 import HaskellLib
-import ATermLib (dehyphen)
+import Data.ATerm.Lib (dehyphen)
 
 ------------------------------------------------------------------------------
 
